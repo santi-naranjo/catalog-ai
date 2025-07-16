@@ -1,0 +1,46 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+
+# Testing
+coverage/
+
+# Production
+build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# VSCode
+.vscode/
+
+# Misc
+*.local
+
+# Optional: Ignore SQLite database
+*.sqlite
+*.sqlite3
+
+# Optional: Ignore generated types
+*.d.ts
+
+# Optional: Ignore IDE files
+.idea/
+*.swp 
